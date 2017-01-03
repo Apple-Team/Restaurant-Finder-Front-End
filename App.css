@@ -1,0 +1,41 @@
+
+
+
+.App1 {
+padding: 10px;
+  background-image: url('images/images.jpeg');
+  background-size:100%;
+overflow: hidden;
+ height: 100%;
+}
+
+p {
+  color: #aaa;
+  font-size: 5rem;
+
+}
+.wrapper {
+    width: 100%;
+   /*background-color: lightcyan;*/
+}
+
+.Logo{
+  float:inherit;
+}
+
+img {
+    background-image: url("images/images.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/*#text {
+    z-index:100;
+    position:absolute;
+    color:white;
+    font-size:100px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}*/
