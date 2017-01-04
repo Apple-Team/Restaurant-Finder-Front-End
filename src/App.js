@@ -37,23 +37,29 @@ class App extends Component {
     <div className="App">
 
       <div className="App1">
-        <Logo />
-        <div className="container">
 
+        <div className="container">
+          <br />
           <ul className="nav nav-pills pull-right">
               <li className="active"><a href="#">Home</a></li>
               <li><a href="#">SignUp</a></li>
               <li><a href="#">Login</a></li>
           </ul>
 
+
       </div>
       <div className="wrapper">
            <div className="container">
-           <br />
-           <br />
-           <br/>
-           <br/>
-           <textarea className="form-control"  value={this.state.text}/ >
+           <br /><br /><br  /><br /><br /><br  /><br /><br /><br  /><br /><br /><br  />
+
+
+           <div className="form-horizontal">
+            <input type="text" name="..." className="form-control" placeholder="Hungry??  Find your favourite /bistro........"/>
+              <button type="submit" className="btn btn-primary" >
+                <i className="glyphicon glyphicon-search"></i>
+                </button>
+                </div>
+
        </div>
      </div>
     </div>

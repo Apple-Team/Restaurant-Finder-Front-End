@@ -8,7 +8,7 @@ render() {
 
   return (
     <div className="Logo">
-     <center><img src={require('./images/logo.png')} alt="logo" height="100px" width="150px"  /></center>
+     
      </div>
    );
  }

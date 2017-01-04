@@ -1,13 +1,13 @@
 
 
 
-.App1 {
+/*.App1 {
 padding: 10px;
-  background-image: url('images/images.jpeg');
+  background-image: url('images/images1.jpeg');
   background-size:100%;
 overflow: hidden;
  height: 100%;
-}
+}*/
 
 p {
   color: #aaa;
@@ -22,14 +22,18 @@ p {
 .Logo{
   float:inherit;
 }
-
-img {
-    background-image: url("images/images.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+input {
+  font-family: 'cursive';
 
 }
+img {
+    background: none;
+    border: "0";
+
+}
+/*button{
+  width:280px;
+}*/
 
 /*#text {
     z-index:100;
