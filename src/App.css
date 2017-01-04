@@ -29,6 +29,8 @@ input {
 img {
     background: none;
     border: "0";
+    width: 270px;
+    height: 200px;
 
 }
 /*button{
