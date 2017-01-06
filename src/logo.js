@@ -8,7 +8,7 @@ render() {
 
   return (
     <div className="Logo">
-     
+     <center><img src={require('./images/logo.png')} className="img-circle" alt="Cinque Terre" width="100px" height="150px"  /></center>
      </div>
    );
  }
